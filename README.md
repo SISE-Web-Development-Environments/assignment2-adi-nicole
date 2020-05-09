@@ -9,6 +9,7 @@ This game was created as part of the course Internet Programming Environments
 
 ## Website:
 [Pacman Game by Adi & Nicole](https://sise-web-development-environments.github.io/assignment2-adi-nicole/)
+https://sise-web-development-environments.github.io/assignment2-adi-nicole/
 
 ## Functionality:
 
